@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "E-Commerce Website",
+    "description": "A full-stack e-commerce platform with user authentication, product catalog, and payment integration.",
+    "technologies": ["React", "Node.js", "MongoDB", "Stripe"],
+    "imageUrl": "/images/ecommerce-project.jpg",
+    "githubUrl": "https://github.com/yourusername/ecommerce-app",
+    "liveUrl": "https://your-ecommerce-app.com"
+  },
+  {
+    "id": 2,
+    "title": "Task Management App",
+    "description": "A collaborative task management application with real-time updates and team collaboration features.",
+    "technologies": ["React", "TypeScript", "Firebase", "Material-UI"],
+    "imageUrl": "/images/task-manager.jpg",
+    "githubUrl": "https://github.com/yourusername/task-manager",
+    "liveUrl": "https://your-task-manager.com"
+  },
+  {
+    "id": 3,
+    "title": "Weather Dashboard",
+    "description": "A responsive weather dashboard that displays current weather and forecasts for multiple cities.",
+    "technologies": ["JavaScript", "HTML", "CSS", "OpenWeather API"],
+    "imageUrl": "/images/weather-dashboard.jpg",
+    "githubUrl": "https://github.com/yourusername/weather-dashboard",
+    "liveUrl": "https://your-weather-dashboard.com"
+  },
+  {
+    "id": 4,
+    "title": "Portfolio Website",
+    "description": "A personal portfolio website showcasing projects and skills with modern design and animations.",
+    "technologies": ["React", "TypeScript", "SCSS", "Framer Motion"],
+    "imageUrl": "/images/portfolio.jpg",
+    "githubUrl": "https://github.com/yourusername/portfolio"
+  }
+]
